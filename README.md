@@ -23,11 +23,11 @@ Below we are able to check the resources that are being created as part of this 
 
 From branch : *terrform-11*
 
-- *S3 bucket (Terraform 11 supported code)*
+- *Code Deploy Application (Terraform 11 supported code)*
 
 From branch : *terrform-12* *work in progress*
 
-- *S3 bucket (Terraform 12 supported code - work in progres)*
+- *Code Deploy Application (Terraform 12 supported code - work in progress)*
 
 
 ---
