@@ -48,7 +48,7 @@ To use this module, add the following call to your code:
 - For Terraform 11
 
 ```tf
-module "<layer>-s3-<AccountID>" {
+module "<layer>-codedeploy-app-<AccountID>" {
   source = "git::https://github.com/nitinda/terraform-module-aws-codedeploy-app.git?ref=terrform-11"
 
 
@@ -59,7 +59,7 @@ module "<layer>-s3-<AccountID>" {
 - For Terraform 12
 
 ```tf
-module "<layer>-s3-<AccountID>" {
+module "<layer>-codedeploy-app-<AccountID>" {
   source = "git::https://github.com/nitinda/terraform-module-aws-codedeploy-app.git?ref=terrform-12"
 
 
